@@ -20,3 +20,17 @@ Contains applicant details such as Gender,Married,Dependents,Education,Self_Empl
 
 ### Result
 The model helps automate loan approval decisions with improved accuracy.
+
+##  Repository Structure
+
+This repository contains two types of notebooks:
+
+- learning_notebooks/  
+  Notebooks created during the learning and experimentation phase.
+
+- notebooks/  
+  Clean, structured notebooks representing the complete end-to-end
+  Machine Learning pipeline used for the final project.
+
+
+
