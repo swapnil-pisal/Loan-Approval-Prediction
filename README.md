@@ -32,5 +32,16 @@ This repository contains two types of notebooks:
   Clean, structured notebooks representing the complete end-to-end
   Machine Learning pipeline used for the final project.
 
+## learning notebook model comaparion table
+
+|      Model          | Precision    | Recall    | F1    | AUC    | Overfitting |
+| --------------------| -------------| ----------|-------|--------|-------------|
+| Logistic Regression | 0.76         | 0.97      | 0.86  | 0.79   | Low         |
+| Decision Tree       | 0.76         | 0.81      | 0.79  | 0.72   | High        |
+| Random Forest       | 0.77         | 0.93      | 0.84  | 0.77   | Medium      |
+| Gradient Boosting   | 0.65         | 0.82      | 0.73  | 0.80   | Medium      |
+| XGBoost             | 0.65         | 0.82      | 0.73  | 0.80   | Low         |
+
+
 
 
